@@ -1,0 +1,23 @@
+.icon{
+    margin-top: 50px;
+  }
+  .icon figure{
+    display: inline-block;
+    padding-left: 0;
+    padding-right: 86px;
+  }
+
+  .icon figcaption{
+    font-size: 16px;
+  }
+
+  .kirim{
+    background-color: #ff5c00;
+    padding: 20px 55px;
+    color: white;
+    border-radius: 40px;
+    font-weight: bold;
+    box-shadow: 5px 8px 4px 0px rgba(0, 0, 0, 0.5 );
+    border: none;
+    margin-top: 20px;
+  }
